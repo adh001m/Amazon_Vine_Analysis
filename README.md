@@ -16,4 +16,5 @@
 - % of 5 Star Reviews from Vine Users:  25 %
 - % of 5 Star Reviews from Non-Vine Users:  49.5 %
 ## Analysis
-### The percentage of 5 star reviews given by non-paid users is about twice as high as 5 star reviews given by paid users. Two possible explanations for bias in our data could be presented from paid users having higher standards or the fact that our data is derived from mobile data. Because our data is derived from mobile information, our sample could become more sensitive to factors such as age, race, ethnicnity, or income. More could be said if we generated sample statistics such as mean, median, IQR, etc...
+### 
+The percentage of 5 star reviews given by non-paid users is about twice as high as 5 star reviews given by paid users. Two possible explanations for bias in our data could be presented from paid users having higher standards or the fact that our data is derived from mobile data. Because our data is derived from mobile information, our sample could become more sensitive to factors such as age, race, ethnicnity, or income. More could be said if we generated sample statistics such as mean, median, IQR, etc...
