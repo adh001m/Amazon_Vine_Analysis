@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-###The purpose of this project is to detemine whether or not there is bias in reviews given from paid and unpaid users. The dataset I chose to handle was Amazon's Mobile Electronics Data. For this analysis, PySpark was used to perform the ETL (extract, transform, and load) process on the dataset. Furthermore, I connected to an AWS RDS instance in order to load the transformed data into pgAdmin and calculate different metrics.
+### The purpose of this project is to detemine whether or not there is bias in reviews given from paid and unpaid users. The dataset I chose to handle was Amazon's Mobile Electronics Data. For this analysis, PySpark was used to perform the ETL (extract, transform, and load) process on the dataset. Furthermore, I connected to an AWS RDS instance in order to load the transformed data into pgAdmin and calculate different metrics.
 
 ## Findings
 ### Vine Users Summary: 
